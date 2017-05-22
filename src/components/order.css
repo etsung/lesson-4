@@ -1,0 +1,38 @@
+.orderList{
+   text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+.orderList .orderItem{
+    border-top: solid lightslategrey 1px;
+    padding: 10px;
+
+}
+
+.orderList .itemName{
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+
+.orderList .itemPrice{
+    text-align: center;
+}
+
+.orderList .itemQuantity{
+    text-align: right;
+}
+
+.orderList .cartPrice{
+    font-size: 1.5em;
+    padding-top: 40px;
+
+}
+.orderList .keepShopping{
+    font-size: .8em;
+}
+
+.orderList .emptyCart{
+    font-size: 1.25em;
+}
